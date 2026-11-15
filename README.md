@@ -1,3 +1,29 @@
+# wasp
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 时代全栈框架，用声明式代码开发 React、Node.js、Prisma 的 JS/TS Web 应用。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div>
   <!-- INTRO -->
   <div align=center>
